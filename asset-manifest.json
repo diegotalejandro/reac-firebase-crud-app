@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-firebase-crud-app/static/css/main.cc6652e4.chunk.css",
+    "main.js": "/react-firebase-crud-app/static/js/main.99f9d4dd.chunk.js",
+    "main.js.map": "/react-firebase-crud-app/static/js/main.99f9d4dd.chunk.js.map",
+    "runtime-main.js": "/react-firebase-crud-app/static/js/runtime-main.fdf52485.js",
+    "runtime-main.js.map": "/react-firebase-crud-app/static/js/runtime-main.fdf52485.js.map",
+    "static/css/2.0eceeaeb.chunk.css": "/react-firebase-crud-app/static/css/2.0eceeaeb.chunk.css",
+    "static/js/2.784d4458.chunk.js": "/react-firebase-crud-app/static/js/2.784d4458.chunk.js",
+    "static/js/2.784d4458.chunk.js.map": "/react-firebase-crud-app/static/js/2.784d4458.chunk.js.map",
+    "index.html": "/react-firebase-crud-app/index.html",
+    "precache-manifest.6a3064fac79f11cd9d57ae1e3f867a1a.js": "/react-firebase-crud-app/precache-manifest.6a3064fac79f11cd9d57ae1e3f867a1a.js",
+    "service-worker.js": "/react-firebase-crud-app/service-worker.js",
+    "static/css/2.0eceeaeb.chunk.css.map": "/react-firebase-crud-app/static/css/2.0eceeaeb.chunk.css.map",
+    "static/css/main.cc6652e4.chunk.css.map": "/react-firebase-crud-app/static/css/main.cc6652e4.chunk.css.map",
+    "static/js/2.784d4458.chunk.js.LICENSE.txt": "/react-firebase-crud-app/static/js/2.784d4458.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf52485.js",
+    "static/css/2.0eceeaeb.chunk.css",
+    "static/js/2.784d4458.chunk.js",
+    "static/css/main.cc6652e4.chunk.css",
+    "static/js/main.99f9d4dd.chunk.js"
+  ]
+}
